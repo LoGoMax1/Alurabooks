@@ -6,4 +6,4 @@ Praticando com a alura: Um site do e-commerce AluraBooks, uma livraria online de
 * SwiperJS
 
 
-https://alurabooks-six-rust.vercel.app/
+Versel: https://alurabooks-six-rust.vercel.app/
